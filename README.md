@@ -7,7 +7,7 @@
 
 <h2>👩‍💻 Software Development and IT Projects:</h2>
 
- - [Hybrid Cloud Virtualized IT Environment Homelab](https://github.com/j00l33/Hybrid-Cloud-Homelab)
+ - [Hybrid Cloud Virtualized IT Environment Homelab](https://j00l33.github.io/Hybrid_Homelab/)
  - [Computer Vision Exercise Repetition and Range Motion Tracker](https://github.com/j00l33/ROM-Analyzer)
  - [Housing and Civic Data Visualization Website](https://github.com/j00l33/partisanCOL)
 

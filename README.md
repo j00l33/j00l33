@@ -2,7 +2,7 @@
 <h2>🙋‍♀️ About me</h2>
 
  - Recent Graduate in Computer Science
- - Interested in the World of DevOps, Site Reliability, and Platform Engineering
+ - Interested in DevOps and Site Reliability.
  - CCNA certified in 2024
 
 <h2>👩‍💻 Software Development and IT Projects:</h2>
